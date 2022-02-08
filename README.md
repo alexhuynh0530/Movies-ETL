@@ -4,7 +4,7 @@
 
 ### Purpose
 
-This is an analysis using the data pipeline prorcess: ETL (extract, transform, load). There are 2 data sources we use, a scrape of Wikipedia and rating data from MovieLens website using Kaggle data. We extract data from the two sources, transform it into one clean dataset, and then load into SQL.
+This is an analysis using the data pipeline process: ETL (extract, transform, load). There are 2 data sources we use, a scrape of Wikipedia and rating data from MovieLens website using Kaggle data. We extract data from the two sources, transform it into one clean dataset, and then load into SQL.
 
 ## Results
 
